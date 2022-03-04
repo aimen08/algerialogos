@@ -9,6 +9,33 @@
 			"FMCG",
 			"Conglomerate"
 		]
+	},
+	{
+		"title": "Ooredoo",
+		"filename": "ooredoo",
+		"url": "http://www.ooredoo.dz/",
+		"category": [
+			"ICT",
+			"Telecommunication"
+		]
+	},
+		{
+		"title": "Djezzy",
+		"filename": "djezzy",
+		"url": "https://www.djezzy.dz/",
+		"category": [
+			"ICT",
+			"Telecommunication"
+		]
+	},
+	{
+		"title": "Mobilis",
+		"filename": "mobilis",
+		"url": "https://www.mobilis.dz/",
+		"category": [
+			"ICT",
+			"Telecommunication"
+		]
 	}
 	
 ]
