@@ -19,7 +19,7 @@ AlgeriaLogos is a simple web app built with HTML and plain Javascript. Styles ar
 - Install dependencies with  
 `$ npm install`  
 
-- serve with hot reload at _localhost:8080_ or some random port if 8080 is inuse.  
+- serve with hot reload at _localhost:8080_ or some random port if 8080 is inuse .  
 `$ npm run dev`  
 
 - Optionally: If you don't want to serve with hot reload as above  
