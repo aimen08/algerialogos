@@ -1,7 +1,7 @@
 # AlgeriaLogos
 
 This is an open source project for downloading free, high quality vector logos of Algerian companies. Visit the website at [algerialogos.com](https://algerialogos.com),the project is 
-inspired by nigerialogos reposetory and all credit goes to
+inspired by nigerialogos repository and all credit goes to
 
 * [**Demilade Olaleye**](https://github.com/Demilad)
 * [**Chinonso Raymond**](https://twitter.com/ChinonsoRay) 
