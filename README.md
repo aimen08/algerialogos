@@ -26,7 +26,7 @@ AlgeriaLogos is a simple web app built with HTML and plain Javascript. Styles ar
 
 ## Contributing
 
-To learn more about contributing to AlgeriaLogos, please read [contributing.md](https://github.com/PaystackHQ/nigerialogos/blob/master/contributing.md)
+To learn more about contributing to AlgeriaLogos, please read [contributing.md](https://github.com/aimen08/algerialogos/blob/master/contributing.md)
 
 ## Inspiration 
 the project is inspired by nigerialogos repository and all credit goes to
