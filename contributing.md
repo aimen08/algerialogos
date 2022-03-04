@@ -35,8 +35,8 @@ company_name
 **Example**
 ```
 {
-  "title": "Polaris Bank",
-  "filename": "polaris_bank",
+  "title": "Ooredoo",
+  "filename": "ooredoo",
   "url": "https://www.ooredoo.dz/",
   "category": ["ICT","Telecommunication"]
 }
