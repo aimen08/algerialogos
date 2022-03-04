@@ -36,6 +36,32 @@
 			"ICT",
 			"Telecommunication"
 		]
+	},
+		{
+		"title": "Algerie Telecom",
+		"filename": "algerie_telecom",
+		"url": "https://www.algerietelecom.dz/",
+		"category": [
+			"ISP",
+			"Telecommunication"
+		]
+	},
+	{
+		"title": "Sonatrach",
+		"filename": "sonatrach",
+		"url": "https://sonatrach.com/",
+		"category": [
+			"Petroleum and Gas"
+		]
+	},
+	{
+		"title": "Yassir",
+		"filename": "yassir",
+		"url": "https://yassir.com/",
+		"category": [
+			"Transportation",
+			"Online Food Delivery"
+		]
 	}
 	
 ]
