@@ -62,6 +62,39 @@
 			"Transportation",
 			"Online Food Delivery"
 		]
+	},
+		{
+		"title": "Anem",
+		"filename": "anem",
+		"url": "http://www.anem.dz/",
+		"category": [
+			"Government Agency"
+		]
+	},
+		{
+		"title": "Saa",
+		"filename": "saa",
+		"url": "https://www.saa.dz/",
+		"category": [
+			"Government Agency",
+			"Financial services"
+		]
+	},
+		{
+		"title": "Oxfam",
+		"filename": "oxfam",
+		"url": "https://www.oxfam.org/",
+		"category": [
+			"Foundation"
+		]
+	},
+		{
+		"title": "Emploitic",
+		"filename": "emploitic",
+		"url": "https://www.emploitic.com/",
+		"category": [
+			"Staffing and Recruiting"
+		]
 	}
 	
 ]
