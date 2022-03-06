@@ -142,5 +142,37 @@
 		"category": [
 			"Construction"
 		]
+	},
+	{
+		"title": "Algérie Ferries",
+		"filename": "algerie_ferries",
+		"url": "http://algerieferries.dz/",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
+		"title": "Echorouk TV",
+		"filename": "echorouk_tv",
+		"url": "https://tv.echoroukonline.com/echorouk-tv/",
+		"category": [
+			"Media"
+		]
+	},
+	{
+		"title": "El Khabar",
+		"filename": "el_khabar",
+		"url": "http://www.elkhabar.com/",
+		"category": [
+			"Newspaper"
+		]
+	},
+	{
+		"title": "Naftal",
+		"filename": "naftal",
+		"url": "https://www.naftal.dz/",
+		"category": [
+			"Petroleum and Gas"
+		]
 	}
 ]
