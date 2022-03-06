@@ -18,7 +18,7 @@
 			"Telecommunication"
 		]
 	},
-		{
+	{
 		"title": "Djezzy",
 		"filename": "djezzy",
 		"url": "https://www.djezzy.dz/",
@@ -36,7 +36,7 @@
 			"Telecommunication"
 		]
 	},
-		{
+	{
 		"title": "Algerie Telecom",
 		"filename": "algerie_telecom",
 		"url": "https://www.algerietelecom.dz/",
@@ -62,7 +62,7 @@
 			"Online Food Delivery"
 		]
 	},
-		{
+	{
 		"title": "Anem",
 		"filename": "anem",
 		"url": "http://www.anem.dz/",
@@ -70,7 +70,7 @@
 			"Government Agency"
 		]
 	},
-		{
+	{
 		"title": "Saa",
 		"filename": "saa",
 		"url": "https://www.saa.dz/",
@@ -79,7 +79,7 @@
 			"Financial services"
 		]
 	},
-		{
+	{
 		"title": "Oxfam",
 		"filename": "oxfam",
 		"url": "https://www.oxfam.org/",
@@ -87,7 +87,7 @@
 			"Foundation"
 		]
 	},
-		{
+	{
 		"title": "Emploitic",
 		"filename": "emploitic",
 		"url": "https://www.emploitic.com/",
@@ -102,6 +102,45 @@
 		"category": [
 			"Energy"
 		]
+	},
+	{
+		"title": "Cevital",
+		"filename": "cevital",
+		"url": "https://www.cevital.com/",
+		"category": [
+			"Conglomerate"
+		]
+	},
+	{
+		"title": "Air Algerie",
+		"filename": "air_algerie",
+		"url": "https://airalgerie.dz/",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
+		"title": "Alliance Assurance",
+		"filename": "alliance_assurance",
+		"url": "https://allianceassurances.com.dz/",
+		"category": [
+			"Financial services"
+		]
+	},
+	{
+		"title": "Faderco",
+		"filename": "faderco",
+		"url": "https://faderco.dz/",
+		"category": [
+			"Conglomerate"
+		]
+	},
+	{
+		"title": "SNVI",
+		"filename": "snvi",
+		"url": "http://snvigroupe.dz/",
+		"category": [
+			"Construction"
+		]
 	}
-	
 ]
