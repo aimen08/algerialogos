@@ -174,5 +174,104 @@
 		"category": [
 			"Petroleum and Gas"
 		]
+	},
+	{
+		"title": "National Bank of Algeria",
+		"filename": "bna",
+		"url": "https://www.bna.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "Ennahar TV",
+		"filename": "ennahar_tv",
+		"url": "https://www.ennaharonline.com/ennahar-tv/",
+		"category": [
+			"Media"
+		]
+	},
+	{
+		"title": "N'GAOUS",
+		"filename": "ngaous",
+		"url": "https://ngaous.com/",
+		"category": [
+			"FMCG"
+		]
+	},
+	{
+		"title": "CNEP Bank",
+		"filename": "cnep",
+		"url": "https://www.cnepbanque.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "Saidal",
+		"filename": "saidal",
+		"url": "https://www.saidalgroup.dz/",
+		"category": [
+			"Health"
+		]
+	},
+	{
+		"title": "El Watan",
+		"filename": "el_watan",
+		"url": "https://www.elwatan.com/",
+		"category": [
+			"Newspaper"
+		]
+	},
+	{
+		"title": "Safex",
+		"filename": "safex",
+		"url": "https://www.safex.dz/",
+		"category": [
+			"Event Management"
+		]
+	},
+	{
+		"title": "Samira TV",
+		"filename": "samira_tv",
+		"url": "https://www.samiratv.dz/",
+		"category": [
+			"Media"
+		]
+	},
+	{
+		"title": "Liberte",
+		"filename": "liberte",
+		"url": "https://www.liberte-algerie.com/",
+		"category": [
+			"Newspaper"
+		]
+	},
+	{
+		"title": "Local Development bank",
+		"filename": "bdl",
+		"url": "https://www.bdl.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "National Company for Rail Transport",
+		"filename": "sntf",
+		"url": "https://www.sntf.dz/",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
+		"title": "El Haddaf TV",
+		"filename": "el_haddaf_tv",
+		"url": "https://www.elheddaf.com/",
+		"category": [
+			"Media"
+		]
 	}
 ]
