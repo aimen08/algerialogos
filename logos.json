@@ -144,7 +144,7 @@
 		]
 	},
 	{
-		"title": "Algérie Ferries",
+		"title": "Algerie Ferries",
 		"filename": "algerie_ferries",
 		"url": "http://algerieferries.dz/",
 		"category": [
@@ -176,7 +176,7 @@
 		]
 	},
 	{
-		"title": "National Bank of Algeria",
+		"title": "BNA",
 		"filename": "bna",
 		"url": "https://www.bna.dz/",
 		"category": [
@@ -201,7 +201,7 @@
 		]
 	},
 	{
-		"title": "CNEP Bank",
+		"title": "CNEP Banque",
 		"filename": "cnep",
 		"url": "https://www.cnepbanque.dz/",
 		"category": [
@@ -250,7 +250,7 @@
 		]
 	},
 	{
-		"title": "Local Development bank",
+		"title": "BDL",
 		"filename": "bdl",
 		"url": "https://www.bdl.dz/",
 		"category": [
@@ -259,7 +259,7 @@
 		]
 	},
 	{
-		"title": "National Company for Rail Transport",
+		"title": "Societe Nationale des Transports Ferroviaires",
 		"filename": "sntf",
 		"url": "https://www.sntf.dz/",
 		"category": [
@@ -272,6 +272,91 @@
 		"url": "https://www.elheddaf.com/",
 		"category": [
 			"Media"
+		]
+	},
+	{
+		"title": "Condor",
+		"filename": "condor",
+		"url": "http://www.condor.dz/",
+		"category": [
+			"Electronics"
+		]
+	},
+	{
+		"title": "Algerie Poste",
+		"filename": "algerie_poste",
+		"url": "https://www.poste.dz/",
+		"category": [
+			"Financial Services"
+		]
+	},
+	{
+		"title": "BADR",
+		"filename": "badr",
+		"url": "https://badrbanque.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "BEA",
+		"filename": "bea",
+		"url": "http://www.bea.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "CPA",
+		"filename": "cpa",
+		"url": "http://www.cpa-bank.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "ENTV",
+		"filename": "entv",
+		"url": "https://www.entv.dz/",
+		"category": [
+			"Media",
+			"Entertainment"
+		]
+	},
+	{
+		"title": "Bimo",
+		"filename": "bimo",
+		"url": "http://www.groupebimo.com/",
+		"category": [
+			"FMCG"
+		]
+	},
+	{
+		"title": "AGB",
+		"filename": "agb",
+		"url": "https://www.agb.dz/",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "GSK",
+		"filename": "gsk",
+		"url": "http://www.gsk.com/en-gb/contact-us/worldwide/algeria/",
+		"category": [
+			"Pharmaceutical industry"
+		]
+	},
+	{
+		"title": "Ifri",
+		"filename": "ifri",
+		"url": "https://ifri-dz.com/",
+		"category": [
+			"FMCG"
 		]
 	}
 ]
