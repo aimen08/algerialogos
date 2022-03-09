@@ -156,7 +156,8 @@
 		"filename": "echorouk_tv",
 		"url": "https://tv.echoroukonline.com/echorouk-tv/",
 		"category": [
-			"Media"
+			"Media",
+			"Entertainment"
 		]
 	},
 	{
@@ -238,7 +239,8 @@
 		"filename": "samira_tv",
 		"url": "https://www.samiratv.dz/",
 		"category": [
-			"Media"
+			"Media",
+			"Entertainment"
 		]
 	},
 	{
@@ -357,6 +359,31 @@
 		"url": "https://ifri-dz.com/",
 		"category": [
 			"FMCG"
+		]
+	},
+	{
+		"title": "OuedKniss",
+		"filename": "ouedkniss",
+		"url": "https://www.ouedkniss.com/",
+		"category": [
+			"Marketplace"
+		]
+	},
+	{
+		"title": "El bilad",
+		"filename": "el_bilad",
+		"url": "https://www.elbilad.net/",
+		"category": [
+			"Media",
+			"Newspaper"
+		]
+	},
+	{
+		"title": "Temtem",
+		"filename": "temtem",
+		"url": "https://temtem.taxi/",
+		"category": [
+			"Transportation"
 		]
 	}
 ]
