@@ -1,3 +1,7 @@
+
+![Alt text](images/seo_card.jpg?raw=true "ALgeria Logos" )
+
+
 # AlgeriaLogos
 
 This is an open source project for downloading free, high quality vector logos of Algerian companies. Visit the website at [algerialogos.com](https://algerialogos.com).
