@@ -385,5 +385,13 @@
 		"category": [
 			"Transportation"
 		]
+	},
+	{
+		"title": "DzCode i/o",
+		"filename": "dzcode_io",
+		"url": "https://dzcode.io/",
+		"category": [
+			"EdTech", "Software", "Open-source software"
+		]
 	}
 ]
