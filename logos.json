@@ -1,5 +1,80 @@
 [
 
+              {
+                      "title": "Yalidine Express",
+                      "filename": "yalidine-express",
+                      "category": ["Delivery"],
+                      "url": "https://yalidine-express.com.dz/"
+              },
+                         {
+                                   "title": "Bonal",
+                                   "filename": "bonal",
+                                   "category": ["Food Industries"],
+                                   "url": "https://bonal-cafe.com"
+                      },
+              {
+                      "title": "Benhamadi",
+                      "filename": "benhamadi",
+                      "category": ["Food Industries"],
+                      "url": "https://extra.dz/"
+               },
+               {
+                      "title": "Labelle",
+                      "filename": "labelle",
+                      "category": ["Food Industries"],
+                      "url": "https://www.groupelabelle.dz/"
+               },
+               {
+                      "title": "Groupe Sim",
+                      "filename": "sim",
+                      "category": ["Food Industries"],
+                      "url": "https://groupesim.com/"
+                },
+                {
+                      "title": "Bellat",
+                      "filename": "bellat",
+                      "category": ["Food Industries"],
+                      "url": "https://bellat.dz/"
+                },
+                {
+                      "title": "Rouiba",
+                      "filename": "rouiba",
+                      "category": ["Food Industries"],
+                      "url": "https://rouiba.com.dz/"
+                },  
+                {
+                     "title": "Cebon",
+                     "filename": "cebon",
+                     "category": ["Food Industries"],
+                     "url": "https://cebon.dz/"
+                },
+                {
+                     "title": "Mama",
+                     "filename": "mama",
+                     "category": ["Food Industries"],
+                     "url": "https://mama.dz/"
+                },
+                {
+                     "title": "Bifa",
+                     "filename": "bifa",
+                     "category": ["Food Industries"],
+                     "url": "https://www.bifa-dz.com"
+                },
+
+
+         {
+                     "title": "Anae",
+                     "filename": "anae",
+                     "category": ["Government Agency"],
+                     "url": "https://anae.dz/"
+         },
+         {
+                   "title": "Angem",
+                   "filename": "angem",
+                   "category": ["Government Agency"],
+                   "url": "https://www.angem.dz/"
+  },
+
 	{
 		"title": "Nestle",
 		"filename": "nestle",
@@ -384,6 +459,7 @@
 		"url": "https://temtem.taxi/",
 		"category": [
 			"Transportation"
+              
 		]
 	}
 ]
